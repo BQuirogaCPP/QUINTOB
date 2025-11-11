@@ -3,5 +3,5 @@
     echo "<br>";
     echo "Pobre maquina :(";
     echo "Esta es otra versión";
-    echo "el profe es chevere y sexy";
+    echo "el profe es chevere y guapo";
 ?>
